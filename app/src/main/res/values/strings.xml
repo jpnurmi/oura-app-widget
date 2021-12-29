@@ -1,0 +1,5 @@
+<resources>
+    <string name="oura_name">Oura</string>
+    <string name="oura_description">Oura sleep score</string>
+    <string name="oura_button">Oura</string>
+</resources>

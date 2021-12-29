@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="io.github.jpnurmi.oura.OuraConfig"
+    android:description="@string/oura_description"
+    android:initialKeyguardLayout="@layout/oura_widget"
+    android:initialLayout="@layout/oura_widget"
+    android:minWidth="40dp"
+    android:minHeight="40dp"
+    android:previewImage="@drawable/oura_preview"
+    android:previewLayout="@layout/oura_widget"
+    android:resizeMode="horizontal|vertical"
+    android:targetCellWidth="1"
+    android:targetCellHeight="1"
+    android:updatePeriodMillis="3600000"
+    android:widgetCategory="home_screen" />
